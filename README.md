@@ -9,7 +9,8 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'forbid_browser'
+gem 'forbid_browser', github: 'angelfan/forbid_browser'
+# gem 'forbid_browser'
 ```
 
 And then execute:
